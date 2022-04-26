@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joegrammer75
-- 👀 I’m interested in privacy, technology, anime, science fiction and the law
+- 👀 I’m interested in privacy, the law, coding, science fiction, anime/illustration, creative thinking etc.
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on new opportunities
+- 💞️ I’m looking to collaborate on new and creative opportunities
 - 📫 How to reach me ... ?
 
 <!---
